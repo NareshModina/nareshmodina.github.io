@@ -1,7 +1,7 @@
 ---
 title: Python object oriented programming - classes
 date: 2023-06-10 17:00:00 +/-TTTT0200
-categories: [Python Classes]
+categories: [Python, Classes]
 tags: [python classes, methods, oop]     # TAG names should always be lowercase
 author: naresh
 ---
