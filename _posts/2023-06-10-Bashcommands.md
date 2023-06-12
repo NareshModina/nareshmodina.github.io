@@ -8,7 +8,7 @@ author: naresh
 
 Classes are usefull in logically grouping data (attributes) and functions (methods) that are easy to build up on and reuse.
 
-1. Defining a class:
+Defining a class:
     ``` python 
     class Team_member:
         pass
