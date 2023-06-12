@@ -29,11 +29,10 @@ You can directly assign attributes to an instance as follows:
 ``` Python
 member_1.name = "your name"
 member_1.role = "researcher"
-member_1.id = "xyz"
-
+member_1.domain = "computer science"
 member_2.name = "ur name"
 member_2.role = "engineer"
-member_2.id = "zyx"
+member_2.domain = "electronics"
 ```
 Both the instances have unique attributes.
 
