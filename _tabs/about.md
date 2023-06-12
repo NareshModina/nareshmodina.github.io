@@ -7,9 +7,11 @@ order: 4
 I am a Post-doc researcher at CNAM Paris. My research interests are as follows,
 - Resource allocation for wireless networks
 - AI for wireless networks
+
 ---
 
 # Publications
+
 ## Journal papers
 1. [Joint Traffic Offloading and Aging Control in 5G IoT Networks Naresh Modina, Rachid El Azouzi, Francesco De Pellegrini, Daniel Sadoc Menasche, Rosa Figueiredo IEEE Transactions on Mobile Computing.](https://ieeexplore.ieee.org/abstract/document/9723643)
 ## Conference papers
