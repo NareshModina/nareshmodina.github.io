@@ -26,7 +26,7 @@ member_1, member_2 are instance variables and they are unique.
 
 You can directly assign attributes to an instance as follows:
 
-``` Python
+``` python
 member_1.name = "your name"
 member_1.role = "researcher"
 member_1.domain = "computer science"
