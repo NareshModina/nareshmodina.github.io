@@ -17,8 +17,7 @@ Following are the useful bash commands:
     mk dir ../newdirectory
     ```
     This creates a new directory
-3. python if condition
-    ``` python 
-    if x == y:
-        print("success")
+3. print current working directory
+    ``` 
+    pwd 
     ```
