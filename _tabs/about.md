@@ -19,6 +19,8 @@ I am a Post-doc researcher at CNAM Paris. My research interests are as follows,
 2. [Naresh Modina, Rachid El-Azouzi, Francesco De Pelligrini, Daniel Sadoc Menasche  "Joint traffic offloading and aging control in 5G IOT networks" 2020 32nd International Teletraffic Congress (ITC 32), 147-155.](https://ieeexplore.ieee.org/document/9355538){:target="_blank"}
 3. [Naresh Modina, Mandar Datar, Rachid El-Azouzi, Francesco De Pelligrini, "Multi-resource allocation for network slices with multi-end fairness" 2022 IEEE International Conference on Communications(ICC 2022)](https://ieeexplore.ieee.org/abstract/document/9838759){:target="_blank"}
 
+# Webinar
+- [Closed loop automatin for networked systems](https://aiatedge.eu/3rd-webinar-on-closed-loop-automation-for-networked-systems/){:target="_blank"}
 # Programming
 - Python
 - HTML, CSS, Javascript
