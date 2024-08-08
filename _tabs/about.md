@@ -5,8 +5,9 @@ order: 4
 ---
 
 I am a Post-doc researcher at CNAM Paris. My research interests are as follows,
-- Resource allocation for wireless networks
-- AI for wireless networks
+
+- AI/ML
+- Mobile networks
 
 ---
 
