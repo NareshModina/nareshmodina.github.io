@@ -21,6 +21,7 @@ I am a Post-doc researcher at CNAM Paris. My research interests are as follows,
 
 # Webinar
 - [Closed loop automatin for networked systems](https://aiatedge.eu/3rd-webinar-on-closed-loop-automation-for-networked-systems/){:target="_blank"}
+
 # Programming
 - Python
 - HTML, CSS, Javascript
