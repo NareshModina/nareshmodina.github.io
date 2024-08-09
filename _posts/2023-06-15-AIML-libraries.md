@@ -1,8 +1,8 @@
 ---
 title: Important AI python frameworks and libraries
-date: 2023-06-14 17:00:00 +/-TTTT0200
+date: 2023-06-15 17:00:00 +/-TTTT0200
 categories: [AIML]
-tags: [python libraries, AI libraries]     # TAG names should always be lowercase
+tags: [python libraries, ai libraries]     # TAG names should always be lowercase
 author: naresh
 ---
 - [numpy](https://numpy.org/){:target="_blank"}
