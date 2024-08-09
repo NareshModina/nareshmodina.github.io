@@ -21,7 +21,7 @@
 #
 - type: linkedin
   icon: "fab fa-linkedin"   # icons powered by <https://fontawesome.com/>
-  url:  "https://www.linkedin.com/in/naresh-modina-9aab88111/"                  # Fill with your Linkedin homepage
+  url:  "https://www.linkedin.com/in/nareshmodina/"                  # Fill with your Linkedin homepage
 #
 - type: gitlab
   icon: 'fab fa-gitlab'
