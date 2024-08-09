@@ -1,5 +1,5 @@
 ---
-title: Steps to implement an basic AI/ML project
+title: Steps to implement a basic AI/ML project
 date: 2023-06-17 17:00:00 +/-TTTT0200
 categories: [AIML]
 tags: [ml steps, dl steps]     # TAG names should always be lowercase
