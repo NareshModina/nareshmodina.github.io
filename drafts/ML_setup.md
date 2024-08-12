@@ -9,7 +9,7 @@ author: naresh
 ## Create a virtual environment
 
 ## Identify data
-Find a dataset to train and test a model. There are several free [open source datasets] Choose one based on your interest.
+Find a dataset to train and test a model. There are several free [open source datasets]  Choose one based on your interest.
 
 ## Preprocessing
 
