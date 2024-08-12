@@ -10,7 +10,7 @@ I am a Post-doc researcher at CNAM Paris. My research interests are as follows,
 - Mobile networks
 
 ---
-
+[cv](https://box.roc.cnam.fr/index.php/s/ZNEM22Rsf7EFynk)
 ---
 
 # Publications
