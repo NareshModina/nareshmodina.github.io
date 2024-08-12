@@ -10,7 +10,7 @@ I am a Post-doc researcher at CNAM Paris. My research interests are as follows,
 - Mobile networks
 
 ---
-[cv](https://box.roc.cnam.fr/index.php/s/ZNEM22Rsf7EFynk)
+[Resumé](https://box.roc.cnam.fr/index.php/s/ZNEM22Rsf7EFynk)
 
 ---
 
@@ -39,6 +39,6 @@ I am a Post-doc researcher at CNAM Paris. My research interests are as follows,
     - TensorFlow
     - PyTorch
 - HTML, CSS
-- Javascript
+- Javascript (Inermediate)
     - React
-- Bash
+- Bash (intermediate)
