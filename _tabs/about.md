@@ -4,10 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I am an applied AI researcher at CNAM Paris. My research interests are as follows,
-
-- Applied AI
-- Mobile networks
+I am an applied AI researcher at CNAM Paris.
 
 ---
 [RESUME](https://box.roc.cnam.fr/index.php/s/ZNEM22Rsf7EFynk){:target="_blank"}
@@ -29,7 +26,7 @@ I am an applied AI researcher at CNAM Paris. My research interests are as follow
 - [Closed loop automatin for networked systems](https://aiatedge.eu/3rd-webinar-on-closed-loop-automation-for-networked-systems/){:target="_blank"}
 
 ---
-### Area of interests
+### Areas of interests
 
 - [Machine Learning](https://github.com/NareshModina/ML){:target="_blank"}
 - [Deep Learning](https://github.com/NareshModina/deep_learning){:target="_blank"}
@@ -44,6 +41,7 @@ I am an applied AI researcher at CNAM Paris. My research interests are as follow
     - Scipy
     - TensorFlow
     - PyTorch
+- Matlab
 - HTML, CSS
 - Javascript (Inermediate)
     - React
