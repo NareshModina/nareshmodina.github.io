@@ -4,13 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I am a Post-doc researcher at CNAM Paris. My research interests are as follows,
+I am an applied AI researcher at CNAM Paris. My research interests are as follows,
 
-- AI/ML
+- Applied AI
 - Mobile networks
 
 ---
-[Resume](https://box.roc.cnam.fr/index.php/s/ZNEM22Rsf7EFynk)
+[RESUME](https://box.roc.cnam.fr/index.php/s/ZNEM22Rsf7EFynk){:target="_blank"}
 
 ---
 
@@ -29,8 +29,14 @@ I am a Post-doc researcher at CNAM Paris. My research interests are as follows,
 - [Closed loop automatin for networked systems](https://aiatedge.eu/3rd-webinar-on-closed-loop-automation-for-networked-systems/){:target="_blank"}
 
 ---
+### Area of interests
 
-## Programming
+- [Machine Learning](https://github.com/NareshModina/ML){:target="_blank"}
+- [Deep Learning](https://github.com/NareshModina/deep_learning){:target="_blank"}
+- [Deep Reinforcement Learning](https://github.com/NareshModina/DRL){:target="_blank"}
+
+
+### Programming
 - Python
     - Numpy
     - Scikit-learn
