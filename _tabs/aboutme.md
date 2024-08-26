@@ -36,12 +36,12 @@ I am an applied AI researcher at CNAM Paris.
 
 ### Programming
 - Python
-    - Numpy
-    - Scikit-learn
-    - Matplotlib
-    - Scipy
-    - TensorFlow
-    - PyTorch
+    - Data: Numpy
+    - machine learning: Scikit-learn
+    - Vistualization: Matplotlib
+    - Algorithms: Scipy
+    - Deep learning: TensorFlow, PyTorch
+    - Deep reinforcement learning: Gymnasium
 - Matlab
 - HTML, CSS
 - Javascript (Inermediate)
