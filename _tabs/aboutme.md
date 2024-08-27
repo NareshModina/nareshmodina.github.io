@@ -36,7 +36,7 @@ I am an applied AI researcher at CNAM Paris.
 
 ### Programming
 - Python
-    - **Data**: Numpy
+    - **Data**: Numpy, Pandas
     - **Vistualization**: Matplotlib
     - **Algorithms**: Scipy
     - **Machine learning**: Scikit-learn
