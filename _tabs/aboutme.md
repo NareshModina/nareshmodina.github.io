@@ -47,3 +47,7 @@ I am an applied AI researcher at CNAM Paris.
 - Javascript (Inermediate)
     - React
 - Bash (intermediate)
+
+### Other
+- Docker
+- git
