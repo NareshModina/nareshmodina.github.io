@@ -29,8 +29,8 @@ I am an applied AI researcher at CNAM Paris.
 ---
 ### Areas of interests
 
-- [Machine Learning]
-- [Deep Learning]
+- Machine Learning
+- Deep Learning
 - [Deep Reinforcement Learning](https://github.com/NareshModina/DRL){:target="_blank"}
 
 
