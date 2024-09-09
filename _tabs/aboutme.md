@@ -51,6 +51,7 @@ I am an applied AI researcher at CNAM Paris.
 ### Other
 - Docker
 - git
+
 ### Document writing
 - Latex
 - Markdown
