@@ -6,7 +6,7 @@ tags: [transformers, hugging face]     # TAG names should always be lowercase
 author: naresh
 ---
 
-## Summary of Transformers and related trained base models
+## Summary of Transformers and generic trained models
 - Attention mechanism
 - Encoder models : these models posses bidirectional attention, these are often referred as auto encoding models. The training is performed a perturbed (by masking words) sentence and reconstructing the initial sentence. These are suitable for sentence classification, named entity recognition (ner), Q&A.
     - [BERT](https://huggingface.co/docs/transformers/model_doc/albert)
@@ -16,7 +16,7 @@ author: naresh
     - [GPT - 2](https://huggingface.co/docs/transformers/model_doc/gpt2)
     - [CTRL](https://huggingface.co/docs/transformers/model_doc/ctrl)
     - [TransformerXL](https://huggingface.co/docs/transformers/model_doc/transfo-xl)
-- encoder-decoder models: These are some times called as sequence to sequence models, these are best suited for summarization, generative Q&A, translation.
+- Encoder-decoder models: These are some times called as sequence to sequence models, these are best suited for summarization, generative Q&A, translation.
     - [BART](https://huggingface.co/docs/transformers/model_doc/bart)
     - [Marian](https://huggingface.co/docs/transformers/model_doc/marian)
     - [T5](https://huggingface.co/docs/transformers/model_doc/t5)
