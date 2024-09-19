@@ -17,13 +17,13 @@ The basic setup involves the following steps
  - other inputs such as attention masks, etc.
  [AutoTokenizer](https://huggingface.co/docs/transformers/main/en/model_doc/auto#transformers.AutoTokenizer){:target="_blank"} is a library that contains various tokenizers used in different models. A tokenizer's algorithm and vocabulary can be loaded using from_pretrained("modelname") method. Similarly, tokenizer can be saved using save_pretrained() method. Besides, tokenizers can be loaded directly from a specific model such as BertTokenizer
 
- ```Python 
+ ```python 
     from Transformers import AutoTokenizer
     checkpoint = "albert"
     tokenizer = AutoTokenizer.from_pretrained(checkpoint)
 ```
 
-```Python 
+```python 
     from transformers import BertTokenizer
     from transformers import AutoTokenizer
     ## encoding
@@ -44,7 +44,7 @@ The basic setup involves the following steps
 ## Model 
 Similar to Tokenizer, a model can be loaded using a specific modelname or instantiated using [AutoModel](https://huggingface.co/docs/transformers/model_doc/auto#transformers.AutoModel){:target="_blank"} class.
 
-```Python 
+```python 
     from transformers import BertConfig, BertModel
     config = BertConfig()
     model = BertModel(config)
@@ -53,7 +53,7 @@ Similar to Tokenizer, a model can be loaded using a specific modelname or instan
 
 Alternative loading method
 
-```Python 
+```python 
     from transformers import AutoModel
     Model = AutoModel.from_pretrained("google-bert/bert-base-uncased")
     config = Model.config
@@ -61,7 +61,7 @@ Alternative loading method
 ```
 
 > **Gated Models** 
-> ```Python 
+> ```python 
 >    from transformers import AutoModel
 >    Model = AutoModel.from_pretrained("google-bert/bert-base-uncased")
 >    config = Model.config
