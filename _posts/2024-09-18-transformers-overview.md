@@ -1,6 +1,6 @@
 ---
 title: Overview of transformers library
-date: 2023-06-19 16:00:00 +/-TTTT0200
+date: 2024-09-18 16:00:00 +/-TTTT0200
 categories: [AIML]
 tags: [transformers pipeling, hugging face]     # TAG names should always be lowercase
 author: naresh
@@ -16,11 +16,13 @@ The basic setup involves the following steps
  - Map such token to integers
  - other inputs such as attention masks, etc.
  [AutoTokenizer](https://huggingface.co/docs/transformers/main/en/model_doc/auto#transformers.AutoTokenizer){:target="_blank"} is a library that contains various tokenizers used in different models. A tokenizer's algorithm and vocabulary can be loaded using from_pretrained("modelname") method. Similarly, tokenizer can be saved using save_pretrained() method. Besides, tokenizers can be loaded directly from a specific model such as BertTokenizer
+
  ```Python 
     from Transformers import AutoTokenizer
     checkpoint = "albert"
     tokenizer = AutoTokenizer.from_pretrained(checkpoint)
 ```
+
 ```Python 
     from transformers import BertTokenizer
     from transformers import AutoTokenizer
@@ -39,7 +41,7 @@ The basic setup involves the following steps
     print(string_decoded)
 ```
 
-## Model: 
+## Model 
 Similar to Tokenizer, a model can be loaded using a specific modelname or instantiated using [AutoModel](https://huggingface.co/docs/transformers/model_doc/auto#transformers.AutoModel){:target="_blank"} class.
 
 ```Python 

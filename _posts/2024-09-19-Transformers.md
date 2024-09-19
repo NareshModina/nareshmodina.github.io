@@ -1,13 +1,13 @@
 ---
-title: Overview of transformers
+title: Transformers
 date: 2024-09-19 16:00:00 +/-TTTT0200
 categories: [AIML]
 tags: [transformers, hugging face]     # TAG names should always be lowercase
 author: naresh
 ---
 
-## Summary of Transformers and generic trained models
-- Attention mechanism
+## Generic Transformer Models
+
 - Encoder models : these models posses bidirectional attention, these are often referred as auto encoding models. The training is performed a perturbed (by masking words) sentence and reconstructing the initial sentence. These are suitable for sentence classification, named entity recognition (ner), Q&A.
     - [BERT](https://huggingface.co/docs/transformers/model_doc/albert)
     - [ALBERT](https://huggingface.co/docs/transformers/model_doc/bert)
