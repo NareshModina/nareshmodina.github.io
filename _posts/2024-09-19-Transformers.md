@@ -25,4 +25,4 @@ author: naresh
     - These inherent biases won't disappear even with fine-tuning as the original model may contain the bias
     - Training a new model requires huge computational capacity, which is not possible for all.
 
-    [source1](https://user.phil.hhu.de/~cwurm/wp-content/uploads/2020/01/7181-attention-is-all-you-need.pdf){:target="_blank"} [source2](https://huggingface.co/learn/nlp-course/chapter1/7){:target="_blank"}
+    [source1](https://user.phil.hhu.de/~cwurm/wp-content/uploads/2020/01/7181-attention-is-all-you-need.pdf){:target="_blank"} - [source2](https://huggingface.co/learn/nlp-course/chapter1/7){:target="_blank"}
