@@ -66,3 +66,4 @@ Alternative loading method
 >    Model = AutoModel.from_pretrained("google-bert/bert-base-uncased")
 >    config = Model.config
 >    print(config)
+> ```
