@@ -12,6 +12,9 @@ I am an applied AI researcher at CNAM Paris.
 
 ---
 
+## Teaching
+[Artificial Intelligence and Machine Learning for Connected Systems](https://ai4ci.eu/course/artificial-intelligence-and-machine-learning-aiml-for-connected-systems/){:target="_blank"}
+
 ## Publications
 
 ### Journal papers
