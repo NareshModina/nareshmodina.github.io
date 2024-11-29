@@ -32,7 +32,7 @@ I am an applied AI researcher at CNAM Paris.
 ---
 ### Areas of interests
 
-- Machine Learning(https://github.com/NareshModina/ML){:target="_blank"}
+- [Machine Learning](https://github.com/NareshModina/ML){:target="_blank"}
 - [Deep Learning](https://github.com/NareshModina/deep_learning){:target="_blank"}
 - [Deep Reinforcement Learning](https://github.com/NareshModina/DRL){:target="_blank"}
 
