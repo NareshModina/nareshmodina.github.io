@@ -7,6 +7,12 @@ order: 4
 
 I am an applied AI researcher at CNAM Paris.
 
+### Areas of interests
+
+- [Machine Learning](https://github.com/NareshModina/ML){:target="_blank"}
+- [Deep Learning](https://github.com/NareshModina/deep_learning){:target="_blank"}
+- [Deep Reinforcement Learning](https://github.com/NareshModina/DRL){:target="_blank"}
+
 ---
 [RESUME](https://box.roc.cnam.fr/index.php/s/ZNEM22Rsf7EFynk){:target="_blank"}
 
@@ -30,11 +36,7 @@ I am an applied AI researcher at CNAM Paris.
 - [Closed loop automatin for networked systems](https://aiatedge.eu/3rd-webinar-on-closed-loop-automation-for-networked-systems/){:target="_blank"}
 
 ---
-### Areas of interests
 
-- [Machine Learning](https://github.com/NareshModina/ML){:target="_blank"}
-- [Deep Learning](https://github.com/NareshModina/deep_learning){:target="_blank"}
-- [Deep Reinforcement Learning](https://github.com/NareshModina/DRL){:target="_blank"}
 
 
 ### Programming
