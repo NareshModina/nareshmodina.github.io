@@ -46,8 +46,7 @@ I am an applied AI researcher at CNAM Paris.
     - **Deep learning**: TensorFlow, PyTorch
     - **Deep reinforcement learning**: Gymnasium
 - Matlab
-- HTML, CSS
-- Javascript (Inermediate)
+
     - React
 - Bash (intermediate)
 
