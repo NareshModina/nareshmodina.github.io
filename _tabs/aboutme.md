@@ -21,6 +21,8 @@ I am an applied AI researcher at CNAM Paris.
 ## Teaching
 [Artificial Intelligence and Machine Learning for Connected Systems](https://ai4ci.eu/course/artificial-intelligence-and-machine-learning-aiml-for-connected-systems/){:target="_blank"}
 
+---
+
 ## Publications
 
 ### Journal papers
@@ -32,8 +34,10 @@ I am an applied AI researcher at CNAM Paris.
 
 ---
 
-## Webinar
+## Talks
 - [Closed loop automatin for networked systems](https://aiatedge.eu/3rd-webinar-on-closed-loop-automation-for-networked-systems/){:target="_blank"}
+
+- [Indo French seminar](https://indo-french-seminar-6g.github.io/){:target="_blank"}
 
 ---
 
