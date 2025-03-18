@@ -23,6 +23,10 @@
   icon: "fab fa-linkedin"   # icons powered by <https://fontawesome.com/>
   url:  "https://www.linkedin.com/in/nareshmodina/"                  # Fill with your Linkedin homepage
 #
-- type: gitlab
-  icon: 'fab fa-gitlab'
-  url:  'https://gitlab.roc.cnam.fr/naresh.modina'                  # Fill with your stackoverflow homepage
+# - type: gitlab
+#   icon: 'fab fa-gitlab'
+#   url:  'https://gitlab.roc.cnam.fr/naresh.modina'                  # Fill with your stackoverflow homepage
+
+- type: youtube
+  icon: 'fab fa-youtube'
+  url:  'https://www.youtube.com/@nareshmodina'                  # Fill with your youtube homepage
