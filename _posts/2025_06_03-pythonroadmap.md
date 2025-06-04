@@ -1,6 +1,6 @@
 ---
-title: Python programming concepts
-date: 2025-06-04 16:00:00 +/-TTTT0200
+title: Python programming roadmap
+date: 2025-06-03 16:00:00 +/-TTTT0200
 categories: [Programming]
 tags: [python]     # TAG names should always be lowercase
 author: naresh
