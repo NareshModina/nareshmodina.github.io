@@ -23,11 +23,12 @@ AI/ML Scientist with over 4 years of experience in designing Deep Reinforcement 
 ### Applied AI Researcher
 **Conservatoire National des Arts et Métiers (Cnam) – Paris** | 2023 – Present
 
-- **NEXASPHERE Project**: Designed AI framework for automatic anomaly detection and recovery in 3D networks (terrestrial/satellite).
+- **NEXASPHERE Project**: Design AI framework for automatic anomaly detection and recovery in 3D networks (terrestrial/satellite).
 - **INFLUENCE Project**: Developed the "Autonomous Reconfiguration – Intent Management" architecture with a DRL agent for intelligent container scaling.
-- **5G3E Dataset**: Led and mentored an engineer in the creation, curation, and publication of the open-source 5G3E dataset for telecom AI model training.
-- **AI Strategy**: Designed full technical architecture and ML innovation roadmap for national innovation programs (i-Lab Innovation Competition, France 2030 – Pionnier de l'IA).
-- **AI4CI European Program**: Designed and delivered the advanced module "AI & ML for Connected Systems" for a European Master program.
+- **5G3E Dataset**: Led the creation of [5G3E](https://github.com/cedric-cnam/5G3E-dataset){:target="_blank"} — an open-source end-to-end 5G telemetry dataset for training telecom AI models.
+- **AI Strategy**: Designed full technical architecture and ML innovation roadmap for the proposal submissions to the national innovation programs (i-Lab Innovation Competition, France 2030 – Pionnier de l'IA).
+- **Funding propsals**: Contributed to the development of three EU research proposals, one of which was awarded funding ([NEXASPHERE](https://nexasphere.eu/){:target="_blank"}).
+- **AI4CI European Program**: Designed and delivered the advanced module "[AI & ML for Connected Systems](https://ai4ci.eu/course/artificial-intelligence-and-machine-learning-aiml-for-connected-systems/){:target="_blank"}" for a European Master program.
 
 ### PhD Researcher
 **Avignon University** | ANR MAESTRO5G Project | 2019 – 2022
@@ -48,10 +49,6 @@ AI/ML Scientist with over 4 years of experience in designing Deep Reinforcement 
 
 **Telecommunications Engineering Degree** — Politecnico di Milano, Italy | 2019
 
----
-
-## Teaching
-[Artificial Intelligence and Machine Learning for Connected Systems](https://ai4ci.eu/course/artificial-intelligence-and-machine-learning-aiml-for-connected-systems/){:target="_blank"}
 
 ---
 
