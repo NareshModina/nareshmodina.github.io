@@ -1,5 +1,5 @@
 ---
-title: Choosing the Right Transformer: Encoder, Decoder, or Both?
+title: "Choosing the Right Transformer: Encoder, Decoder, or Both?"
 date: 2026-04-01 09:00:00 +0200
 categories: [AIML]
 tags: [transformer, nlp, bert, gpt, architecture, deeplearning]
