@@ -5,7 +5,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-AI/ML Scientist with over 4 years of experience in designing Deep Reinforcement Learning (DRL) algorithms and predictive models. Specialized in applying AI for resource allocation and automation challenges for telecom infrastructures (5G/6G).
+<!-- AI/ML Scientist with over 4 years of experience in designing Deep Reinforcement Learning (DRL) algorithms and predictive models. Specialized in applying AI for resource allocation and automation challenges for telecom infrastructures (5G/6G). -->
 
 ### Areas of interests
 
