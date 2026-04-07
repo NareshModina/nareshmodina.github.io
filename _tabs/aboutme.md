@@ -88,8 +88,8 @@ AI/ML Scientist with over 4 years of experience in designing Deep Reinforcement 
 
 ---
 
-## Languages
+<!-- ## Languages
 - English (Fluent)
 - French (A2)
 - Hindi (Fluent)
-- Telugu (Native)
+- Telugu (Native) -->
