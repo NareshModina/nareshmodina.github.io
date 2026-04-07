@@ -1,6 +1,6 @@
 ---
 title: Why LoRA Isn't Enough for Domain Pretraining
-date: 2026-04-06 09:00:00 +0200
+date: 2026-04-07 09:00:00 +0200
 categories: [AIML]
 tags: [llm, finetuning, lora, telecom, nlp, pretraining]
 author: naresh
