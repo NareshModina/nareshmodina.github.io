@@ -23,6 +23,7 @@ order: 4
 ### Applied AI Researcher
 **Conservatoire National des Arts et Métiers (Cnam) – Paris** | 2023 – Present
 
+- **TeleSLMs**: Full fine-tuning of SmolLM2 (135M, 360M) on 1.87B tokens from 38,302 3GPP/ETSI standards documents, followed by LoRA instruction fine-tuning. SmolLM-TS-135M-it achieves 31.5% Ans-PPL reduction (SemScore 0.6183→0.6504); SmolLM-TS-360M-it achieves 20.6% reduction (SemScore 0.6216→0.6572) vs baseline on Tele-Eval. 4 models + TeleSpec-Data dataset published on HuggingFace. Multi-GPU training via PyTorch DDP on 3× L40S.
 - **NEXASPHERE Project**: Design AI framework for automatic anomaly detection and recovery in 3D networks (terrestrial/satellite).
 - **INFLUENCE Project**: Developed the "Autonomous Reconfiguration – Intent Management" architecture with a DRL agent for intelligent container scaling.
 - **5G3E Dataset**: Led the creation of [5G3E](https://github.com/cedric-cnam/5G3E-dataset){:target="_blank"} — an open-source end-to-end 5G telemetry dataset for training telecom AI models.
